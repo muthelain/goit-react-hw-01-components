@@ -34,7 +34,7 @@ export function TransactionHistory ({ items }){
             </BodyT>
         </TransactionTable>
     )
-}
+};
 
 TransactionHistory.propTypes = {
     items: PropTypes.arrayOf(
