@@ -24,9 +24,8 @@ export const HeadUl = styled.tr`
 background-color: #5eb8d1;
 `;
 export const HeadLi = styled.th`
-padding: 10px 5px;
+  padding: 10px 5px;
   width: 200px;
-
   color: white;
   font-weight: 700;
 
