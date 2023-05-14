@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muthelain/goit-react-hw-01-components/static/css/main.0a30c5c6.css",
+    "main.js": "/muthelain/goit-react-hw-01-components/static/js/main.794516bd.js",
+    "index.html": "/muthelain/goit-react-hw-01-components/index.html",
+    "main.0a30c5c6.css.map": "/muthelain/goit-react-hw-01-components/static/css/main.0a30c5c6.css.map",
+    "main.794516bd.js.map": "/muthelain/goit-react-hw-01-components/static/js/main.794516bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a30c5c6.css",
+    "static/js/main.794516bd.js"
+  ]
+}
